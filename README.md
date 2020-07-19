@@ -1,5 +1,5 @@
 <h1> Hi, I'm Rachita Bansal 👋 👾 👩‍💻 🎨 </h1>
-<p align="center">
+<p>
   I'm a Software Engineer currently working @ Microsoft and living in Bellevue, Washintgton.   
 </p>
 
