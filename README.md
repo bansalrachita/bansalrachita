@@ -12,7 +12,7 @@
 
 #### Technologies and tools
 
-| <img src="/images/js.png" width="50"> | <img src="/images/gatsby.png" width="50"> | <img src="/images/graphql.png" width="50"> | <img src="/images/node.png" width="50"> | <img src="/images/react.png" width="50"> |  <img src="/images/mongo.png" width="50">  | <img src="/images/vscode.png" width="50"> | <img src="/images/serverless.jpg" width="50"> |
+| <img src="images/js.png" width="50"> | <img src="/images/gatsby.png" width="50"> | <img src="/images/graphql.png" width="50"> | <img src="/images/node.png" width="50"> | <img src="/images/react.png" width="50"> |  <img src="/images/mongo.png" width="50">  | <img src="/images/vscode.png" width="50"> | <img src="/images/serverless.jpg" width="50"> |
 | :-----------------------------------: | :---------------------------------------: | :----------------------------------------: | :-------------------------------------: | :--------------------------------------: | :----------------------------------------: | :---------------------------------------: | :-------------------------------------------: |
 | <img src="/images/d3.png" width="50"> | <img src="/images/apollo.png" width="50"> |   <img src="/images/p5.png" width="50">    |  <img src="/images/ts.png" width="50">  |  <img src="/images/rx.ico" width="50">   | <img src="/images/angular.png" width="50"> | <img src="/images/azure.png" width="50">  |    <img src="/images/git.png" width="50">     |
 
