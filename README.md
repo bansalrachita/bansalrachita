@@ -1,14 +1,14 @@
-<h1> Hi, I'm Rachita Bansal 👋 👾 👩‍💻 🎨 </h1>
+<h1> Hi, I'm Rachita Bansal 👋 👾 👩‍💻 </h1>
 <p>
   I'm a Software Engineer currently working @ Microsoft and living in Bellevue, Washintgton.   
 </p>
 
 <ul>
   <li> Some technolgoies I enjoy working with include JavaScript, TypeScript and GraphQL. </li>
-  <li> Data visualization draws my interest. </li>
-  <li> I like to paint for myself sometimes, checkout some of my work 👇 </li>
-  <a href="https://dribbble.com/racb"><img src="https://img.shields.io/badge/dribbble%20-%23e94c88.svg?&style=for-the-badge&logo=dribbble&logoColor=rgb(195,%2035,%2097)" /></a>
+  <li> Data science and data visualization draws my interest. </li>
+  <li>I like to paint for myself sometimes. Checkout some of my art work 👉 <a href="https://dribbble.com/racb"><img src="https://img.shields.io/badge/dribbble%20-%23e94c88.svg?&style=for-the-badge&logo=dribbble&logoColor=rgb(195,%2035,%2097)" /></a></li>
 </ul>
+  
 
 #### Technologies and tools
 
